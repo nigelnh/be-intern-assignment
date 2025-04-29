@@ -1,4 +1,4 @@
-# Design Document for Social Media Platform API
+# Design Document for Social Media Platform
 
 ## Database Schema and Entity Relationships
 
